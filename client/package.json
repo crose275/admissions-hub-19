@@ -23,7 +23,6 @@
     "jwt-decode": "^3.1.2",
     "link": "^1.5.1",
     "monaco-themes": "^0.4.4",
-    "npm": "^9.6.7",
     "react-auth-kit": "^2.12.2",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
